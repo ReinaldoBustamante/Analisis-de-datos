@@ -3,3 +3,4 @@
 - PCA
 - KMEANS
 - GMM
+- KOHONEN
